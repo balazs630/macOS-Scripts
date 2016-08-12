@@ -1,0 +1,1 @@
+sudo /usr/libexec/repair_packages --repair --standard-pkgs --volume /
