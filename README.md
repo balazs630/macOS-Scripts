@@ -1,6 +1,6 @@
 # OS-X-scripts
 Basic shell scripts
-- Trimforce: Enables TRIM Support on 3rd party SSD's.
+- Trimforce: Enables TRIM Support on non Apple branded 3rd party SSD's.
 - Update Kextcache: After modifying the core kext files, it rebuilds the kextcache.
 - Diskutil list: For information on all available disks and their partitioning.
 - Disk Utility Show Debug Mode: For advanced preferences in Disk Utility.
