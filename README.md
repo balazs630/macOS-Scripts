@@ -19,9 +19,10 @@
 - Edit host file: Opens host file that maps hostnames to IP addresses
 - Enable HiDPI Mode: Allow you to scale down external displays to lower resoultion with high DPI "Retina" look
 - Force empty Trash: When the file in the Trash is in use and the system doesn't allow you to empty the Trash
+- Homebrew Install: Install Homebrew package manager 
 - Repair disk permissions: For the missing function in recent OS X releases
 - Reset Safari: Set Safari to factory defaults. Removes cache, extensions, settings and so on..
-- Screenshot preferences: Set screenshot file location to home/downloads, file type to jpg
+- Screenshot Preferences: Set screenshot file location to home/downloads, file type to jpg
 - Trimforce: Enables TRIM Support on Non-Apple branded 3rd party SSD drives
 - Update Kextcache: After modifying the core kext files it rebuilds the kextcache
 - Verify disk permissions: For the missing function in recent OS X releases
