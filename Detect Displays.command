@@ -1,0 +1,1 @@
+ioreg -lw0 | grep IODisplayPrefsKey
