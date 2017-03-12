@@ -1,1 +1,0 @@
-defaults write com.apple.DiskUtility DUDebugMenuEnabled 1
