@@ -20,6 +20,7 @@
 - <b>Edit Host File:</b> Opens host file that maps hostnames to IP addresses
 - <b>Enable HiDPI Mode:</b> Allows you to scale down external displays to lower resoultion with high DPI "Retina" look
 - <b>Force Empty Trash:</b> When the file in the Trash is in use and the system doesn't allow you to empty the Trash
+- <b>Generate UUID:</b> Generates random UUID identifier
 - <b>Homebrew Install:</b> Install Homebrew package manager
 - <b>Mount All EFI Partitions:</b> Mounts all hidden EFI partitions between disk0s1 and disk10s1 without sudo
 - <b>Remove XCode DerivedData:</b> Removes the DerivedData folder that XCode using for projects's index
