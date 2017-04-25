@@ -1,0 +1,1 @@
+brew cask outdated | xargs brew cask reinstall

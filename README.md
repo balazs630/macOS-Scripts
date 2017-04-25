@@ -22,6 +22,7 @@
 - <b>Force Empty Trash:</b> When the file in the Trash is in use and the system doesn't allow you to empty the Trash
 - <b>Generate UUID:</b> Generates random UUID identifier
 - <b>Homebrew Install:</b> Install Homebrew package manager
+- <b>Homebrew Update Outdated Casks:</b> Updates macOS applications and large binaries installed by Homebrew package manager
 - <b>Mount All EFI Partitions:</b> Mounts all hidden EFI partitions between disk0s1 and disk10s1 without sudo
 - <b>Remove XCode DerivedData:</b> Removes the DerivedData folder that XCode using for projects's index
 - <b>Reset Safari:</b> Sets Safari to factory defaults. Removes cache, extensions, settings and so on..
