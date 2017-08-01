@@ -3,6 +3,7 @@
 
 
 - <b>Allow Apps From Anywhere:</b> Allows opening applications from 3rd party developers (default is 'App Store and identified developers' in macOS 10.12 Sierra)
+- <b>Codesign Xcode and Components:</b> Sign Xcode and it's components to make them work with 3rd party PCI nVidia graphics cards that using nVidia Web Driver'. This fix solves the transparent window issue and the crashes in Spritekit projects.
 - <b>Create install media:</b>
   - OS X 10.6 Snow Leopard 
   - OS X 10.7 Lion
