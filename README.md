@@ -23,11 +23,12 @@
 - <b>Force Empty Trash:</b> When the file in the Trash is in use and the system doesn't allow you to empty the Trash
 - <b>Generate UUID:</b> Generates random UUID identifier
 - <b>Homebrew Install:</b> Install Homebrew package manager
+- <b>Homebrew List All Installed Stuff:</b> List all Homebrew installed package and application with its version number
 - <b>Homebrew Update Outdated Casks:</b> Updates macOS applications and large binaries installed by Homebrew package manager
 - <b>Mount All EFI Partitions:</b> Mounts all hidden EFI partitions between disk0s1 and disk10s1 without sudo
 - <b>Remove XCode DerivedData:</b> Removes the DerivedData folder that XCode using for projects's index
 - <b>Reset Safari:</b> Sets Safari to factory defaults. Removes cache, extensions, settings and so on..
 - <b>Screenshot Preferences:</b> Sets screenshot file location to home/downloads, file type to jpg
-- <b>Sonar Scanner Run Analysis:</b> Runs a Sonar analysis on the (project) directory where this script put into.
+- <b>Sonar Scanner Run Analysis:</b> Runs a Sonar analysis on the (project) directory where this script put into
 - <b>Trimforce Enable:</b> Enables TRIM Support on Non-Apple branded 3rd party SSD drives
 - <b>Update Kextcache:</b> After modifying the core kext files it rebuilds the kextcache
