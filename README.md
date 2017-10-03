@@ -26,6 +26,7 @@
 - <b>Homebrew List All Installed Stuff:</b> List all Homebrew installed package and application with its version number
 - <b>Homebrew Update Outdated Casks:</b> Updates macOS applications and large binaries installed by Homebrew package manager
 - <b>Mount All EFI Partitions:</b> Mounts all hidden EFI partitions between disk0s1 and disk10s1 without sudo
+- <b>Npm list installed packages:</b> List all installed Node Package Manager (npm) packages
 - <b>Remove XCode DerivedData:</b> Removes the DerivedData folder that XCode using for projects's index
 - <b>Reset Safari:</b> Sets Safari to factory defaults. Removes cache, extensions, settings and so on..
 - <b>Screenshot Preferences:</b> Sets screenshot file location to home/downloads, file type to jpg
