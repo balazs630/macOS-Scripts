@@ -3,7 +3,6 @@
 
 
 - <b>Allow Apps From Anywhere:</b> Allows opening applications from 3rd party developers (default is 'App Store and identified developers' in macOS 10.12 Sierra)
-- <b>Codesign Xcode and Components:</b> Sign Xcode and it's components to make them work with 3rd party PCI nVidia graphics cards that using nVidia Web Driver'. This fix solves the transparent window issue and the crashes in Spritekit projects.
 - <b>Create install media:</b>
   - OS X 10.6 Snow Leopard 
   - OS X 10.7 Lion
@@ -11,6 +10,7 @@
   - OS X 10.10 Yosemite 
   - OS X 10.11 El Capitan
   - macOS 10.12 Sierra
+  - macOS 10.13 High Sierra
  
      ** The scripts above require an empty flash drive formatted as Mac OS Extended (Journaled), Partition Map: GUID, Name: Untitled. For Snow Leopard, please change the path to the dmg installer file before running the script!
 - <b>Delete All .DS_Store:</b> Removes all .DS_Store files from the main drive (reset folder view settings recursively)
@@ -24,12 +24,14 @@
 - <b>Generate UUID:</b> Generates random UUID identifier
 - <b>Homebrew Install:</b> Install Homebrew package manager
 - <b>Homebrew List All Installed Stuff:</b> List all Homebrew installed package and application with its version number
+- <b>Homebrew Remove Caches:</b> Removes package installer zips and cask dmg installers from Caches
 - <b>Homebrew Update Outdated Casks:</b> Updates macOS applications and large binaries installed by Homebrew package manager
 - <b>Mount All EFI Partitions:</b> Mounts all hidden EFI partitions between disk0s1 and disk10s1 without sudo
 - <b>Npm list installed packages:</b> List all installed Node Package Manager (npm) packages
-- <b>Remove XCode DerivedData:</b> Removes the DerivedData folder that XCode using for projects's index
-- <b>Reset Safari:</b> Sets Safari to factory defaults. Removes cache, extensions, settings and so on..
+- <b>Safari Reset Factory Defaults:</b> Sets Safari to factory defaults. Removes cache, extensions, settings and so on..
 - <b>Screenshot Preferences:</b> Sets screenshot file location to home/downloads, file type to jpg
 - <b>Sonar Scanner Run Analysis:</b> Runs a Sonar analysis on the (project) directory where this script put into
 - <b>Trimforce Enable:</b> Enables TRIM Support on Non-Apple branded 3rd party SSD drives
 - <b>Update Kextcache:</b> After modifying the core kext files it rebuilds the kextcache
+- <b>Xcode Codesign Components:</b> Sign Xcode and it's components to make them work with 3rd party PCI nVidia graphics cards that using nVidia Web Driver'. This fix solves the transparent window issue and the crashes in Spritekit projects.
+- <b>Xcode Remove DerivedData:</b> Removes the DerivedData folder that XCode using for projects's index
