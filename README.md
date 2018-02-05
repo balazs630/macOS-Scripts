@@ -28,6 +28,7 @@
 - <b>Homebrew Update Outdated Casks:</b> Updates macOS applications and large binaries installed by Homebrew package manager
 - <b>Mount All EFI Partitions:</b> Mounts all hidden EFI partitions between disk0s1 and disk10s1 without sudo
 - <b>Npm list installed packages:</b> List all installed Node Package Manager (npm) packages
+- <b>Remove nVidia CUDA driver:</b> Remove nVidia CUDA (parallel computing platform) related files
 - <b>Safari Reset Factory Defaults:</b> Sets Safari to factory defaults. Removes cache, extensions, settings and so on..
 - <b>Screenshot Preferences:</b> Sets screenshot file location to home/downloads, file type to jpg
 - <b>Sonar Scanner Run Analysis:</b> Runs a Sonar analysis on the (project) directory where this script put into
