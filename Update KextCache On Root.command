@@ -1,1 +1,0 @@
-sudo kextcache -i /
