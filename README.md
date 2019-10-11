@@ -12,6 +12,7 @@
   - macOS 10.12 Sierra
   - macOS 10.13 High Sierra
   - macOS 10.14 Mojave
+   - macOS 10.15 Catalina
  
      ** The scripts above require an empty flash drive formatted as Mac OS Extended (Journaled), Partition Map: GUID, Name: Untitled. For Snow Leopard, please change the path to the dmg installer file before running the script!
 - <b>Delete All .DS_Store:</b> Removes all .DS_Store files from the main drive (reset folder view settings recursively)
