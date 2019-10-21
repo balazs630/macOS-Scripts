@@ -34,4 +34,5 @@
 - <b>Screenshot Preferences:</b> Sets screenshot file location to home/downloads, file type to jpg
 - <b>Sonar Scanner Run Analysis:</b> Runs a Sonar analysis on the (project) directory where this script put into
 - <b>Trimforce Enable:</b> Enables TRIM Support on Non-Apple branded 3rd party SSD drives
+- <b>Xcode Clear Unavailable Simulators:</b> Remove all unavailable iOS simulators
 - <b>Xcode Remove DerivedData:</b> Removes the DerivedData folder that XCode using for projects's index

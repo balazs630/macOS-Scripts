@@ -1,0 +1,1 @@
+xcrun simctl delete unavailable
