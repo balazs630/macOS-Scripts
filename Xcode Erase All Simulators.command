@@ -1,0 +1,1 @@
+sudo xcrun simctl erase all
