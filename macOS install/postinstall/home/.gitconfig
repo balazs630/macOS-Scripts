@@ -1,0 +1,18 @@
+[user]
+    name = Horváth Balázs
+    email = balazs630@icloud.com
+[core]
+    editor = vim
+    autocrlf = input
+    excludesfile = ~/.gitignore
+[help]
+    autocorrect = 10
+[alias]
+    st = status
+    ci = commit
+    br = branch
+    co = checkout
+    logall = log --oneline --graph --all --color=auto
+    logless = log --graph --decorate --pretty=oneline --abbrev-commit
+[credential]
+    helper = osxkeychain
