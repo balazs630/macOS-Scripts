@@ -1,0 +1,1 @@
+sudo defaults write bluetoothaudiod "Enable AptX codec" -bool true
