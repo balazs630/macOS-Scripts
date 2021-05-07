@@ -1,1 +1,1 @@
-brew cask outdated | xargs brew cask reinstall
+brew outdated --cask | xargs brew reinstall --cask
