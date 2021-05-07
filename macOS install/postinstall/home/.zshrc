@@ -1,22 +1,3 @@
-#############################
-### Load Brew completion: ###
-#############################
-
-if type brew &>/dev/null; then
-  FPATH=$(brew --prefix)/share/zsh/site-functions:$FPATH
-fi
-
-
-############################
-### Load Git completion: ###
-############################
-
-zstyle ':completion:*:*:git:*' script ~/.zsh/git-completion.bash
-fpath=(~/.zsh $fpath)
-
-autoload -Uz compinit && compinit
-
-
 #####################################
 ### Show current Git branch name: ###
 #####################################
@@ -27,3 +8,13 @@ parse_git_branch() {
 
 setopt PROMPT_SUBST
 PROMPT='%9c%{%F{green}%}$(parse_git_branch)%{%F{none}%} $ '
+
+#####################################
+### Homebrew support for M1 Macs: ###
+#####################################
+
+PATH=/opt/homebrew/bin/:$PATH
+
+#####################################
+### END
+#####################################

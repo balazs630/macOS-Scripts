@@ -16,3 +16,5 @@
     logless = log --graph --decorate --pretty=oneline --abbrev-commit
 [credential]
     helper = osxkeychain
+[pull]
+    ff = only
